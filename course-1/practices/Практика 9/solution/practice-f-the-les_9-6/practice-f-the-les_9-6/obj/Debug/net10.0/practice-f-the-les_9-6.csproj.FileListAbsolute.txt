@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\bin\Debug\net10.0\practice-f-the-les_9-6.exe
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\bin\Debug\net10.0\practice-f-the-les_9-6.deps.json
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\bin\Debug\net10.0\practice-f-the-les_9-6.runtimeconfig.json
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\bin\Debug\net10.0\practice-f-the-les_9-6.dll
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\bin\Debug\net10.0\practice-f-the-les_9-6.pdb
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.dll
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\refint\practice-f-the-les_9-6.dll
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.pdb
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\practice-f-the-les_9-6.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\practice-f-the-les_9-6\practice-f-the-les_9-6\obj\Debug\net10.0\ref\practice-f-the-les_9-6.dll

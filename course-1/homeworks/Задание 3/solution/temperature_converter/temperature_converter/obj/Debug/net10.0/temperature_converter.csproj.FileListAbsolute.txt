@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\bin\Debug\net10.0\temperature_converter.exe
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\bin\Debug\net10.0\temperature_converter.deps.json
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\bin\Debug\net10.0\temperature_converter.runtimeconfig.json
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\bin\Debug\net10.0\temperature_converter.dll
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\bin\Debug\net10.0\temperature_converter.pdb
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.dll
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\refint\temperature_converter.dll
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.pdb
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\temperature_converter.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\temperature_converter\temperature_converter\obj\Debug\net10.0\ref\temperature_converter.dll

@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\bin\Debug\net10.0\Movie_class.exe
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\bin\Debug\net10.0\Movie_class.deps.json
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\bin\Debug\net10.0\Movie_class.runtimeconfig.json
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\bin\Debug\net10.0\Movie_class.dll
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\bin\Debug\net10.0\Movie_class.pdb
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.dll
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\refint\Movie_class.dll
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.pdb
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\Movie_class.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\Movie_class\Movie_class\obj\Debug\net10.0\ref\Movie_class.dll

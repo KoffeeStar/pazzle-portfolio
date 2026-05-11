@@ -1,0 +1,29 @@
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.exe
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.deps.json
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.runtimeconfig.json
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.dll
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.pdb
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.dll
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\refint\grages_calculator.dll
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.pdb
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\grages_calculator\grages_calculator\obj\Debug\net10.0\ref\grages_calculator.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.exe
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.deps.json
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.runtimeconfig.json
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\bin\Debug\net10.0\grages_calculator.pdb
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.AssemblyInfoInputs.cache
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.AssemblyInfo.cs
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.sourcelink.json
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\refint\grages_calculator.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.pdb
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\grages_calculator.genruntimeconfig.cache
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\grades_calculator\grages_calculator\obj\Debug\net10.0\ref\grages_calculator.dll

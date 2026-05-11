@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kraw1\\source\\repos\\practice-f-the-les_17-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99491A8D-B38B-4D5D-8527-B6D8B35D36DA}|practice-f-the-les_17-3\\practice-f-the-les_17-3.csproj|c:\\users\\kraw1\\source\\repos\\practice-f-the-les_17-3\\practice-f-the-les_17-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99491A8D-B38B-4D5D-8527-B6D8B35D36DA}|practice-f-the-les_17-3\\practice-f-the-les_17-3.csproj|solutionrelative:practice-f-the-les_17-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraw1\\source\\repos\\practice-f-the-les_17-3\\practice-f-the-les_17-3\\Program.cs",
+              "RelativeDocumentMoniker": "practice-f-the-les_17-3\\Program.cs",
+              "ToolTip": "C:\\Users\\kraw1\\source\\repos\\practice-f-the-les_17-3\\practice-f-the-les_17-3\\Program.cs",
+              "RelativeToolTip": "practice-f-the-les_17-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:07:37.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

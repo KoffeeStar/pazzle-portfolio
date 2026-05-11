@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\bin\Debug\net8.0\interface_IMessageSender.exe
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\bin\Debug\net8.0\interface_IMessageSender.deps.json
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\bin\Debug\net8.0\interface_IMessageSender.runtimeconfig.json
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\bin\Debug\net8.0\interface_IMessageSender.dll
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\bin\Debug\net8.0\interface_IMessageSender.pdb
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.dll
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\refint\interface_IMessageSender.dll
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.pdb
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\interface_IMessageSender.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\interface_IMessageSender\interface_IMessageSender\obj\Debug\net8.0\ref\interface_IMessageSender.dll

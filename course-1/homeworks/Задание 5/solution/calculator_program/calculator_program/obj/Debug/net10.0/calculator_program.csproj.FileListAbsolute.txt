@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\bin\Debug\net10.0\calculator_program.exe
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\bin\Debug\net10.0\calculator_program.deps.json
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\bin\Debug\net10.0\calculator_program.runtimeconfig.json
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\bin\Debug\net10.0\calculator_program.dll
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\bin\Debug\net10.0\calculator_program.pdb
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.dll
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\refint\calculator_program.dll
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.pdb
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\calculator_program.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\calculator_program\calculator_program\obj\Debug\net10.0\ref\calculator_program.dll

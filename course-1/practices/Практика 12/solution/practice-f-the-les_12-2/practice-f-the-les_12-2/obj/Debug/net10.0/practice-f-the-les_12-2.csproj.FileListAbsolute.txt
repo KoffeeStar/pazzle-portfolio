@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\bin\Debug\net10.0\practice-f-the-les_12-2.exe
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\bin\Debug\net10.0\practice-f-the-les_12-2.deps.json
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\bin\Debug\net10.0\practice-f-the-les_12-2.runtimeconfig.json
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\bin\Debug\net10.0\practice-f-the-les_12-2.dll
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\bin\Debug\net10.0\practice-f-the-les_12-2.pdb
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.dll
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\refint\practice-f-the-les_12-2.dll
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.pdb
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\practice-f-the-les_12-2.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\practice-f-the-les_12-2\practice-f-the-les_12-2\obj\Debug\net10.0\ref\practice-f-the-les_12-2.dll

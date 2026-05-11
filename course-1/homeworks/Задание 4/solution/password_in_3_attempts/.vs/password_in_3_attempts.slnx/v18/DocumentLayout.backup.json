@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kraw1\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\solition\\password_in_3_attempts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9FD740-C950-CEF0-595B-F2A6D9201F89}|password_in_3_attempts\\password_in_3_attempts.csproj|c:\\users\\kraw1\\desktop\\pazzle-portfolio\\course-1\\homeworks\\\u0437\u0430\u0434\u0430\u043D\u0438\u0435 4\\solition\\password_in_3_attempts\\password_in_3_attempts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9FD740-C950-CEF0-595B-F2A6D9201F89}|password_in_3_attempts\\password_in_3_attempts.csproj|solutionrelative:password_in_3_attempts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kraw1\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\solition\\password_in_3_attempts\\password_in_3_attempts\\Program.cs",
+              "RelativeDocumentMoniker": "password_in_3_attempts\\Program.cs",
+              "ToolTip": "C:\\Users\\kraw1\\Desktop\\pazzle-portfolio\\course-1\\homeworks\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 4\\solition\\password_in_3_attempts\\password_in_3_attempts\\Program.cs",
+              "RelativeToolTip": "password_in_3_attempts\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:52:10.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

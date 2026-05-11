@@ -1,0 +1,14 @@
+C:\Users\kraw1\source\repos\phone_class\phone_class\bin\Debug\net10.0\phone_class.exe
+C:\Users\kraw1\source\repos\phone_class\phone_class\bin\Debug\net10.0\phone_class.deps.json
+C:\Users\kraw1\source\repos\phone_class\phone_class\bin\Debug\net10.0\phone_class.runtimeconfig.json
+C:\Users\kraw1\source\repos\phone_class\phone_class\bin\Debug\net10.0\phone_class.dll
+C:\Users\kraw1\source\repos\phone_class\phone_class\bin\Debug\net10.0\phone_class.pdb
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.dll
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\refint\phone_class.dll
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.pdb
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\phone_class.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\phone_class\phone_class\obj\Debug\net10.0\ref\phone_class.dll

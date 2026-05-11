@@ -1,0 +1,29 @@
+C:\Users\kraw1\source\repos\turning\turning\bin\Debug\net10.0\turning.exe
+C:\Users\kraw1\source\repos\turning\turning\bin\Debug\net10.0\turning.deps.json
+C:\Users\kraw1\source\repos\turning\turning\bin\Debug\net10.0\turning.runtimeconfig.json
+C:\Users\kraw1\source\repos\turning\turning\bin\Debug\net10.0\turning.dll
+C:\Users\kraw1\source\repos\turning\turning\bin\Debug\net10.0\turning.pdb
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.AssemblyInfoInputs.cache
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.AssemblyInfo.cs
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.dll
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\refint\turning.dll
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.pdb
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\turning.genruntimeconfig.cache
+C:\Users\kraw1\source\repos\turning\turning\obj\Debug\net10.0\ref\turning.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\bin\Debug\net10.0\turning.exe
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\bin\Debug\net10.0\turning.deps.json
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\bin\Debug\net10.0\turning.runtimeconfig.json
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\bin\Debug\net10.0\turning.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\bin\Debug\net10.0\turning.pdb
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.AssemblyInfoInputs.cache
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.AssemblyInfo.cs
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.csproj.CoreCompileInputs.cache
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.sourcelink.json
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\refint\turning.dll
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.pdb
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\turning.genruntimeconfig.cache
+C:\Users\kraw1\Desktop\pazzle-portfolio\course-1\homeworks\Задание 4\solition\turning\turning\obj\Debug\net10.0\ref\turning.dll
