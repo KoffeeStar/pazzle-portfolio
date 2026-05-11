@@ -1,0 +1,106 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Koffeebot",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Update": {
+      "get": {
+        "tags": [
+          "Update"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Update"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json-patch+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TelegramUpdate"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TelegramChat": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TelegramMessage": {
+        "type": "object",
+        "properties": {
+          "messageId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "chat": {
+            "$ref": "#/components/schemas/TelegramChat"
+          },
+          "text": {
+            "type": "string",
+            "nullable": true
+          },
+          "date": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TelegramUpdate": {
+        "type": "object",
+        "properties": {
+          "updateId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "message": {
+            "$ref": "#/components/schemas/TelegramMessage"
+          },
+          "editedMessage": {
+            "$ref": "#/components/schemas/TelegramMessage"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
